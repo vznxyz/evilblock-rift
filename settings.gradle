@@ -1,0 +1,5 @@
+rootProject.name = 'rift-parent'
+include(':common')
+include(':bukkit')
+include(':proxy')
+

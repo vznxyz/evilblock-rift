@@ -1,0 +1,6 @@
+name: Rift
+version: 1.2
+author: joeleoli
+main: net.evilblock.rift.proxy.RiftProxyPlugin
+depends:
+  - Cubed

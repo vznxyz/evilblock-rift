@@ -1,0 +1,7 @@
+name: Rift
+version: 1.2
+author: joeleoli
+description: Proxy and Bukkit instance management, and player queue
+main: net.evilblock.rift.bukkit.RiftBukkitPlugin
+depend:
+  - Cubed
